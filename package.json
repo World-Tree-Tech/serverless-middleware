@@ -1,5 +1,5 @@
 {
-  "name": "serverless-middleware",
+  "name": "@worldtree/serverless-middleware",
   "version": "0.0.14",
   "description": "Serverless plugin to allow middleware handlers configured directly in serverless.yaml",
   "main": "src/index.js",
