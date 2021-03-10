@@ -1,5 +1,5 @@
 {
-  "name": "@worldtree/serverless-middleware",
+  "name": "@ext0/serverless-middleware",
   "version": "0.0.14",
   "description": "Serverless plugin to allow middleware handlers configured directly in serverless.yaml",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juanjoDiaz/serverless-middleware.git"
+    "url": "git+https://github.com/World-Tree-Tech/serverless-middleware.git"
   },
   "keywords": [
     "serverless",
